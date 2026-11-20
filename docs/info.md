@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Counts up asynchronously with 2 bits with the most significant bit toggling half as often as the 0s place.
 
 ## How to test
 
-Explain how to use your project
+Supply clock signal and then watch it count up.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED, Clock signal (if external)
